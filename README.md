@@ -2,7 +2,7 @@
 Este es un Gestor de stock creado con Python,Tkinter y SQLite.
 
 ##  Autor
-** Guillermo Colella **
+Guillermo Colella 
 *  [LinkedIn]   (https://www.linkedin.com/in/guillermocolella/)	
 
 ##  Instalación
