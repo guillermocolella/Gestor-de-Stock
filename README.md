@@ -1,2 +1,15 @@
-# Gestor-de-Stock
-Este programa está diseñado con Python, Tkinter y SQLite. Es una aplicación que uso para gestionar el stock de mi emprendimiento de delivery de bebidas.
+##  Descripcion	
+Este es un Gestor de stock creado con Python,Tkinter y SQLite.
+
+##  Autor
+** Guillermo Colella **
+*  [LinkedIn]   (https://www.linkedin.com/in/guillermocolella/)	
+
+##  Instalación
+Descomprimir el archivo GestordeStock.rar y ejecutar Gestor.exe
+##  Contratación
+Si queres contratarme podes escribrirme a van.smeiter95@gmail.com para consultas.
+
+##  Licencia
+MIT Public License v3.0
+No puede usarse comercialmente
